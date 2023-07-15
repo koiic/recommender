@@ -1,0 +1,21 @@
+.pytest_cache
+
+# python project
+
+ca.key
+ca.pem
+
+# virtualenv
+.venv
+venv
+
+# security
+*.key
+*.pem
+*.csr
+
+#idea
+.idea
+
+#pycache
+__pycache__
